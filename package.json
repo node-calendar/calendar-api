@@ -21,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/node-calendar/calendar-api/issues"
   },
-  "homepage": "https://github.com/node-calendar/calendar-api#readme"
+  "homepage": "https://github.com/node-calendar/calendar-api#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
+    "db-migrate": "^0.9.23",
+    "express": "^4.13.3",
+    "pg": "^4.4.3",
+    "pg-native": "^1.9.0"
+  }
 }
