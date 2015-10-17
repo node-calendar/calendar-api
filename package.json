@@ -1,0 +1,25 @@
+{
+  "name": "calendar-api",
+  "version": "0.0.1",
+  "description": "Node.js API for caledar app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-calendar/calendar-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "mocha",
+    "test"
+  ],
+  "author": "Serhij Korochanskyj <webzepter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-calendar/calendar-api/issues"
+  },
+  "homepage": "https://github.com/node-calendar/calendar-api#readme"
+}
