@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "driver": "pg",
+    "database": "calendar-api-development",
+    "user": "calendar-api-development",
+    "password": "123456"
+  },
+  "test": {
+    "driver": "pg",
+    "database": "calendar-api-test",
+    "user": "calendar-api-test",
+    "password": "123456"
+  },
+  "prod": {
+    "driver": "pg",
+    "database": "calendar-api-production",
+    "user": "calendar-api-production",
+    "password": "123456"
+  },
+  "pg": {
+    "driver": "pg",
+    "host": "localhost"
+  },
+  "sql-file" : true
+}
