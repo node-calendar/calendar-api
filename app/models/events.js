@@ -27,8 +27,6 @@ function createEvent(params, callback) {
         '   ($1, $2, $3, tstzrange($4, $5))'
     ].join('\n');
 
-    console.log(query);
-
     var data = [
         params.calendar_id,
         params.name,
